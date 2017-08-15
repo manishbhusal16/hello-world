@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1500788111 source:c:\users\dell\desktop\mamibukupr2\main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<fstream>
+	<string>
+	<time.h>
+

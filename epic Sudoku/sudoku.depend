@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1502777419 source:c:\users\dell\desktop\mamibukupr2\main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<fstream>
+	<string>
+	<time.h>
+
+1502777419 source:f:\clz\epic sudoku\final project\epic sudoku\main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<fstream>
+	<string>
+	<time.h>
+
